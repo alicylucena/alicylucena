@@ -6,12 +6,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alicylucena/alicylucena/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="80%" />
-</p>
-
-</div>
-
 ---
 
 ### 🚀 Sobre Mim
@@ -27,37 +21,25 @@ Estou aberta a oportunidades de estágio, projetos e conexões nas áreas de tec
 ### 🛠️ Habilidades & Tecnologias
 
 #### 💻 Habilidades Atuais:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
 </p>
 
 #### 📚 Aprendendo no momento:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <br>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/alicylucena">
-    <img loading="lazy" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicylucena&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-    <img loading="lazy" height="175em" src="https://github-readme-stats.vercel.app/api?username=alicylucena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas" />
-  </a>
-</div>
-
-<br>
 
 ---
 
 ### 📫 Conecte-se Comigo
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/alicylucena" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
