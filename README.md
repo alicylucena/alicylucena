@@ -10,9 +10,9 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPE - Campus Paulista**, com forte interesse em **Cibersegurança**, **Inteligência Artificial** e **Machine Learning**.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE - Campus Paulista e tenho grande interesse nas áreas de **Full Stack e Cibersegurança**. No desenvolvimento, possuo maior afinidade e prática no **Front-end** (HTML e CSS, com base em C e Python), mas atualmente venho me dedicando a expandir meus conhecimentos no **Back-end** para uma atuação mais completa.
 
-Estou aberta a oportunidades de estágio, projetos e conexões nas áreas de tecnologia, segurança digital e inteligência artificial.
+Paralelamente, estou iniciando minha jornada em **Cibersegurança** através do programa Hackers do Bem, buscando construir bases sólidas em defesa e proteção de sistemas.
 
 <br>
 
