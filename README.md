@@ -1,14 +1,15 @@
 <div align="center">
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alicy%20Lucena&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Alicy%20Lucena&fontSize=50&fontColor=ffffff&bgColor=0d1117" width="100%" />
 </div>
 
-<font color='254774' style='font-size: 30px;font-weight:bold;'> Estudante de Análise e Desenvolvimento de Sistemas no IFPE </font>
+  ---
+  
+## Estudante de Análise e Desenvolvimento de Sistemas 
 
 <br>
 
----
-<font color='254774' style='font-size: 25px;font-weight:bold;font-family:courier new;'>💬 Sobre Mim </font>
+### 💬 Sobre Mim 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) e tenho grande interesse nas áreas de **Full Stack e Cibersegurança**. No desenvolvimento, possuo maior afinidade e prática no **Front-end** (HTML e CSS, com base em C e Python), mas atualmente venho me dedicando a expandir meus conhecimentos no **Back-end** para uma atuação mais completa.
 
@@ -17,7 +18,7 @@ Paralelamente, estou iniciando minha jornada em **Cibersegurança** buscando con
 <br>
 
 ---
-<font color='254774' style='font-size: 25px;font-weight:bold;font-family:courier new;'>🛠️ Habilidades & Tecnologias </font>
+### 🛠️ Habilidades & Tecnologias 
 
 ####  Habilidades Atuais:
 <p align="center">
@@ -33,14 +34,16 @@ Paralelamente, estou iniciando minha jornada em **Cibersegurança** buscando con
 
 
 ---
-<font color='254774' style='font-size: 25px;font-weight:bold;font-family:courier new;'> 📊 Minhas Estatísticas </font>
+
+ ### 📊 Minhas Estatísticas 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicylucena&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicylucena&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ___
-<font color='254774' style='font-size: 25px;font-weight:bold;font-family:courier new;'>📫 Conecte-se Comigo </font>
+
+### 📫 Conecte-se Comigo 
 
 
 <p align="center">
